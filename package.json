@@ -2,7 +2,7 @@
   "name": "vue-weblineindia-phone-number",
   "version": "1.0.0",
   "description": "A Vue.js phone component is provide multiple phone with format and validation.",
-  "main": "./lib/Phone.vue",
+  "main": "./lib/phone.vue",
   "author": "weblineindia",
   "license": "MLT",
   "repository": "https://github.com/weblineindia/Vue-Phone-Number",
